@@ -101,10 +101,17 @@ input, select {
     vertical-align:middle;
 }
 
-h2 {
-color: red;
-}
+ /* MY CODE*/
+
 
 .title {
+  color: red;
+}
+
+#index-2 {
+
+}
+
+.index-intro p {
   color: green;
 }
