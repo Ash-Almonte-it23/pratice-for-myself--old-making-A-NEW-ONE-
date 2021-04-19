@@ -1,0 +1,23 @@
+* {
+  marging: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;;
+  width: 1000px;
+}
+
+.image-arm {
+  width: 300px;
+  height: 200px;
+  background-image: url(image/download.jpg);
+  background-size: 200%;
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+.image-arm:hover {
+background-size: 100%;
+
+}
